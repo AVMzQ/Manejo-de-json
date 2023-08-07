@@ -1,0 +1,14 @@
+C:\Users\angel\source\repos\Manejo de Json\Manejo de Json\bin\Debug\Manejo de Json.exe.config
+C:\Users\angel\source\repos\Manejo de Json\Manejo de Json\bin\Debug\Manejo de Json.exe
+C:\Users\angel\source\repos\Manejo de Json\Manejo de Json\bin\Debug\Manejo de Json.pdb
+C:\Users\angel\source\repos\Manejo de Json\Manejo de Json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\angel\source\repos\Manejo de Json\Manejo de Json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\angel\source\repos\Manejo de Json\Manejo de Json\obj\Debug\Manejo de Json.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\Manejo de Json\Manejo de Json\obj\Debug\Manejo de Json.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\source\repos\Manejo de Json\Manejo de Json\obj\Debug\Manejo_de_Json.Form1.resources
+C:\Users\angel\source\repos\Manejo de Json\Manejo de Json\obj\Debug\Manejo_de_Json.Properties.Resources.resources
+C:\Users\angel\source\repos\Manejo de Json\Manejo de Json\obj\Debug\Manejo de Json.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\Manejo de Json\Manejo de Json\obj\Debug\Manejo de Json.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Manejo de Json\Manejo de Json\obj\Debug\Manejo de Json.csproj.CopyComplete
+C:\Users\angel\source\repos\Manejo de Json\Manejo de Json\obj\Debug\Manejo de Json.exe
+C:\Users\angel\source\repos\Manejo de Json\Manejo de Json\obj\Debug\Manejo de Json.pdb
